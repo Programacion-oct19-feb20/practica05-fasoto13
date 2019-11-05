@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplos;
+package ejercicioclase05;
 
 /**
  *
@@ -20,7 +20,11 @@ public class OperadoresLogicos {
         System.out.printf("And: %s & %s = %s\n", valorA, valorB, 
                 valorA & valorB);
         System.out.printf("And: %s | %s = %s\n", valorA, valorB, 
-                valorA | valorB);
+                valorA | valorB); //V and V = Verdadero
+                                  //V or V = verdadero(uno tiene que ser  V para
+                                  //ser verdadero  
+                                  
+                                  
        
         
     }
